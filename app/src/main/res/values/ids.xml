@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView_answer" type="id" />
+    <item name="editText_first_no" type="id"></item>
+    <item name="textView_first_no" type="id"></item>
+    <item name="textView_second_no" type="id"></item>
+    <item name="add_button" type="id"></item>
+    <item name="editText_second_no" type="id"></item>
+</resources>
